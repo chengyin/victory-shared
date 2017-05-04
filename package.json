@@ -2,8 +2,7 @@
   "name": "victory-shared",
   "version": "0.0.1",
   "description": "Victory wrapper to support web and react-native targets",
-  "main": "lib/index.dom.js",
-  "react-native": "lib/index.rn.js",
+  "main": "lib/index.js",
   "scripts": {
     "prepublish": "npm run build",
     "build": "rm -rf lib && babel -d lib src",
