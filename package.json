@@ -1,6 +1,6 @@
 {
   "name": "victory-shared",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Victory wrapper to support web and react-native targets",
   "main": "lib/index.js",
   "scripts": {
